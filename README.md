@@ -1,2 +1,1 @@
-# binary_trees
-Repository for solidifying the binary trees data structures
+0x1D. C - Binary trees
